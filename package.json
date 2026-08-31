@@ -45,5 +45,8 @@
     "@babel/preset-env": "^7.26.0",
     "@babel/preset-react": "^7.25.9",
     "babel-preset-react-app": "^10.0.1"
+  },
+  "engines": {
+    "node": "22.x"
   }
 }

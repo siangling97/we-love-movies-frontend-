@@ -1,7 +1,5 @@
 # WeLoveMovies Frontend Application
 
-This is the front end Thinkful provides for the WeLoveMovies project. I deployed it against the REST API I built: https://github.com/siangling97/we-love-movies-backend-
-
 This is the Front End Application for the WeLoveMovies project. Follow the instructions below.
 
 ## Installation
